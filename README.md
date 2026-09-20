@@ -1,10 +1,10 @@
-# hey, I'm Anuska 👋
+# Hey, I'm Anuska 👋
 
 🎓 Computer Science student @ VIT Chennai  
-💻 building things, breaking things, and figuring out how they work  
-🔐 curious about cybersecurity & web development  
-🤝 interested in technology, problem-solving & working with people  
-🌱 learning something new, one project at a time
+💻 Building things, breaking things, and figuring out how they work  
+🔐 Curious about cybersecurity & web development  
+🤝 Interested in technology, problem-solving & working with people  
+🌱 Learning something new, one project at a time
 
 ---
 
